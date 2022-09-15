@@ -106,3 +106,5 @@ while en_trivia:
     if repetir_trivia != "si":
         print(f"\nEspero que lo hayas pasado bien, {nombre}, hasta pronto!")
         en_trivia = False
+        
+        #Todo bien me gusto la importación de otros archivos pero falta crear el readme
